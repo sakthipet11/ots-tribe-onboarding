@@ -33,7 +33,7 @@ export const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="https://onthestreets.in" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                <a href="#" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                   Main Website
                 </a>
               </li>
